@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Martin Lambrecht</h1>
 <h3 align="center">An Argentinian junior backend developer and in-progress systems analyst.</h3>
 
-- 🔭 I’m currently working on **learning the basis of almost everything**
+- 🔭 I’m currently working on **adquire the basis of almost everything**
 
 - 🌱 I’m currently learning **Node and Kubernetes**
 
