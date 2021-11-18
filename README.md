@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **adquire the basis of almost everything**
 
-- 🌱 I’m currently learning **Node and Kubernetes**
+- 🌱 I’m currently learning **Node and React**
 
 - 📫 How to reach me **martinoscarlambrecht@gmail.com**
 
